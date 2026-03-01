@@ -5,4 +5,4 @@ You can do whatever you want with my programs, use it, edit it, claim it as your
 All of my work are open-source, and I don't intend to hide anything malicious in there.
 I accept and appreciate any comments/critics, as I think that it's a good way to improve what's bad and not optimisated in my programs.
 
-My programs' dev language are currently only Python, but it may change in the future.
+My programs dev languages are currently only focused on Python, but it may change in the future.
