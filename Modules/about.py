@@ -5,7 +5,7 @@ red = Fore.LIGHTRED_EX
 cyan = Fore.LIGHTCYAN_EX
 yellow = Fore.LIGHTYELLOW_EX
 end = Fore.WHITE
-version = "1.1.1"
+version = "1.1.2"
 
 def about():
     print(fr'''
@@ -23,6 +23,6 @@ def about():
 {cyan}═══════ : INFORMATIONS : ═══════{end}
        Version : {yellow}{version}{end}
  Creation Date : {yellow}25/02/2026{end}
-   Last Update : {yellow}01/03/2026{end}
+   Last Update : {yellow}03/03/2026{end}
   Dev Language : {yellow}Python{end}
    Description : {yellow}Program with a multitude of usefull options.{end}''')
