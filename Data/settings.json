@@ -1,6 +1,7 @@
 {
     "return": "ESC",
     "validate": "ENTER",
-    "color": "RED",
+    "mainColor": "LIGHTRED",
+    "otherColor": "LIGHTGREEN",
     "placeholder": "placeholder"
 }
